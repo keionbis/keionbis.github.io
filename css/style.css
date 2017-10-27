@@ -886,11 +886,12 @@ input[type="text"] {
 }
 .resize {
     width:100px;
-    height:700px;
+    height:800px;
 }
 
-.resize:hover {
-    height:900px;
-    width:900px;
+.rotateimg90 {
+  -ms-transform: rotate(90deg);
+-webkit-transform: rotate(90deg); 
+transform: rotate(90deg);
 }
 /*# sourceMappingURL=style.css.map */
