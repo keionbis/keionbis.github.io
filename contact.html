@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Neos &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>Keion Bisland</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -56,12 +56,12 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4 animate-box">
-					<h3>Our Address</h3>
+					
 					<ul class="contact-info">
 						<li><i class="icon-location-pin"></i>100 Institute Rd, Worcester MA</li>
 						<li><i class="icon-phone2"></i>+5086541802</li>
 						<li><i class="icon-mail"></i><a href="#">kbisland@wpi.edu</a></li>
-						<li><i class="icon-globe2"></i><a href="#">www.wpi.edu/~kbisland</a></li>
+						<li><i class="icon-mail"></i><a href="#">keion96@gmail.com</a></li>
 					</ul>
 				</div>
 				<div class="col-md-8 animate-box">
@@ -83,8 +83,14 @@
 						</div>
 						<div class="col-md-12">
 							<div class="form-group">
-								<input type="submit" value="Send Message" class="btn btn-primary">
+								<button id= "demo" onclick="myFunction()" class="btn btn-primary" >Send Message </button>
 							</div>
+							<script>
+							document.getElementById("demo").onclick = function() {myFunction()};
+							function myFunction(){
+								document.getElementById("demo").innerHTML = "YOU CLICKED ME!"; 
+							}
+							</script>
 						</div>
 					</div>
 				</div>

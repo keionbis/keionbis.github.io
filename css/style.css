@@ -885,8 +885,12 @@ input[type="text"] {
   opacity: 0;
 }
 .resize {
-    width:100px;
-    height:800px;
+    width:800px;
+    height:650px;
+}
+.resize_2 {
+    width:350px;
+    height:150px;
 }
 
 .rotateimg90 {
@@ -894,4 +898,5 @@ input[type="text"] {
 -webkit-transform: rotate(90deg); 
 transform: rotate(90deg);
 }
+
 /*# sourceMappingURL=style.css.map */
