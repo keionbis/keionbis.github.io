@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5427e05b-974e-4b82-bc47-6e6c3eabaa63" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Resume.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/owl.carousel.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Motherboard.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/Motherboard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MotorControllerBottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/MotorControllerBottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MotorControllerTop.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/MotorControllerTop.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/RBE3001Arms.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/RBE3001Arms.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/SmartMouse2017.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/SmartMouse2017.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/V1andV2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/V1andV2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="50" column="102" selection-start-line="50" selection-start-column="102" selection-end-line="50" selection-end-column="102" />
+            <state relative-caret-position="341">
+              <caret line="47" column="123" selection-start-line="47" selection-start-column="123" selection-end-line="47" selection-end-column="123" />
             </state>
           </provider>
         </entry>
@@ -39,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1004">
@@ -66,15 +68,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="75" />
-    <option name="y" value="1074" />
-    <option name="width" value="1568" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="3216" />
     <option name="height" value="1776" />
   </component>
   <component name="ProjectView">
@@ -134,17 +136,18 @@
       <updated>1545273379706</updated>
       <workItem from="1545273383271" duration="6126000" />
       <workItem from="1545351615677" duration="17000" />
+      <workItem from="1545353017905" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6143000" />
+    <option name="totallyTimeSpent" value="7280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="75" y="1074" width="1568" height="1776" extended-state="4" />
+    <frame x="-8" y="-8" width="3216" height="1776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22265372" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106985524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -157,7 +160,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.32962275" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -167,13 +170,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="50" column="102" selection-start-line="50" selection-start-column="102" selection-end-line="50" selection-end-column="102" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1449">
@@ -185,6 +181,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1004">
           <caret line="899" column="14" selection-start-line="899" selection-start-column="14" selection-end-line="899" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="47" column="123" selection-start-line="47" selection-start-column="123" selection-end-line="47" selection-end-column="123" />
         </state>
       </provider>
     </entry>
