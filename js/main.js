@@ -47,17 +47,44 @@
 	var owlCrouselFeatureSlide = function() {
 		var owl = $('.owl-carousel1');
 		owl.owlCarousel({
-			items: 1,
-		   loop: true,
-		   margin: 0,
-		   responsiveClass: true,
-		   nav: true,
+		    responsiveClass: true,
+		    nav: true,
 		   dots: true,
-		   smartSpeed: 500,
-		   navText: [
+		    navText: [
 		      "<i class='icon-chevron-left owl-direction'></i>",
 		      "<i class='icon-chevron-right owl-direction'></i>"
-	     	]
+	     	 ],
+			items:1,
+			loop:true,
+			//pagination:true,
+			mouseDrag:true,
+			scroll:true,
+			margin:0,
+			autoplay:true,
+			autoplayTimeout:3000,
+			autoplayHoverPause:true,
+			touchDrag : true,
+
+
+		});
+
+		$(document).ready(function() {
+
+			var owl = $('.owl-carousel');
+			owl.owlCarousel({
+				loop:true,
+				margin:10,
+			});
+
+			/*keyboard navigation*/
+			$(document.documentElement).keyup(function(event) {
+				if (event.keyCode == 37) { /*left key*/
+					owl.trigger('prev.owl.carousel', [700]);
+				} else if (event.keyCode == 39) { /*right key*/
+					owl.trigger('next.owl.carousel', [700]);
+				}
+			});
+
 		});
 
 		$('.owl-carousel2').owlCarousel({
