@@ -608,9 +608,15 @@
 }
 .icon-chevron-left:before {
     content: "\e923";
+    color: black;
+    /*font-size: larger;*/
+    font-size: 70px;
+
 }
 .icon-chevron-right:before {
     content: "\e924";
+    color: black;
+    font-size: 70px;
 }
 .icon-chevron-small-down:before {
     content: "\e925";
@@ -638,6 +644,9 @@
 }
 .icon-chevron-up:before {
     content: "\e92d";
+}
+.icon-github:before{
+    content: normal;
 }
 .icon-chevron-with-circle-down:before {
     content: "\e92e";
@@ -1133,6 +1142,7 @@
 }
 .icon-location-pin:before {
     content: "\e9d2";
+    color: black;
 }
 .icon-location:before {
     content: "\e9d3";
@@ -1160,6 +1170,7 @@
 }
 .icon-mail:before {
     content: "\e9db";
+    color: black;
 }
 .icon-man:before {
     content: "\e9dc";
@@ -1238,6 +1249,7 @@
 }
 .icon-phone2:before {
     content: "\e9f5";
+    color: black;
 }
 .icon-pie-chart:before {
     content: "\e9f6";
@@ -1595,6 +1607,7 @@
 }
 .icon-github:before {
     content: "\ea6c";
+    color: black;
 }
 .icon-google-with-circle:before {
     content: "\ea6d";
@@ -2957,6 +2970,7 @@
 }
 .icon-github2:before {
     content: "\ec6d";
+    color: black;
 }
 .icon-npm:before {
     content: "\ec6e";

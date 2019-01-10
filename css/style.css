@@ -309,8 +309,6 @@ header #fh5co-main-nav > ul li:first-child {
 .owl-carousel .owl-dots {
   display: none !important;
   height: inherit;
-  color:orange !important;
-  position: absolute;
   /*left:25%;*/
   /*right:25%;*/
   /*position: relative;*/
@@ -373,6 +371,10 @@ header #fh5co-main-nav > ul li:first-child {
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: #fff;
 }
+.larger{
+  font-size: large;
+}
+.ion-chevron-righ{ font-size: 300px; color : red; }
 
 .item {
   position: relative;
